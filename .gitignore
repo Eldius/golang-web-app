@@ -1,0 +1,4 @@
+
+bin/
+static/vendor/
+.vscode/
